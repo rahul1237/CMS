@@ -1,6 +1,7 @@
 # this is the coustmer managment system
 # this is the basic version of dbms
-# here we store all the data of the user! withour using any database!
+# here i store all the data of the user! without using any database!
+
 
 
 idlist=[]
